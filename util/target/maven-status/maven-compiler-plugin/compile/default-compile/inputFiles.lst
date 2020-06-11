@@ -1,0 +1,5 @@
+/home/ubuntu/Chapter05/util/src/main/java/se/magnus/util/http/HttpErrorInfo.java
+/home/ubuntu/Chapter05/util/src/main/java/se/magnus/util/http/GlobalControllerExceptionHandler.java
+/home/ubuntu/Chapter05/util/src/main/java/se/magnus/util/exceptions/NotFoundException.java
+/home/ubuntu/Chapter05/util/src/main/java/se/magnus/util/exceptions/InvalidInputException.java
+/home/ubuntu/Chapter05/util/src/main/java/se/magnus/util/http/ServiceUtil.java

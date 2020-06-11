@@ -1,0 +1,11 @@
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/composite/product/ServiceAddresses.java
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/core/product/ProductService.java
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/core/recommendation/Recommendation.java
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/composite/product/RecommendationSummary.java
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/composite/product/ReviewSummary.java
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/composite/product/ProductAggregate.java
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/core/product/Product.java
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/core/review/ReviewService.java
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/composite/product/ProductCompositeService.java
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/core/review/Review.java
+/home/ubuntu/Chapter05/api/src/main/java/se/magnus/api/core/recommendation/RecommendationService.java
